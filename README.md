@@ -1,2 +1,2 @@
-# OnlineJudge
+# Online Judges
 This repository contains my solutions to problems in different online judge platforms such as LeetCode, Hackerrank, etc.
