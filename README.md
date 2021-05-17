@@ -11,7 +11,7 @@ Connect with me via
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirshar/)
 
 
-- <h3>[LeetCode](#leetcode)</h3>
+**1. [LeetCode](https://github.com/ani03sha/OnlineJudges#leetcode)**
 
 ## LeetCode
 
