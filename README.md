@@ -17,6 +17,7 @@ Connect with me via
 
 |#|Title|Solutions|Difficulty|Tag|
 |-----|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------|---------------------|
+|1218|[Longest Arithmetic Subsequence Of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/dp/LongestArithmeticSubsequenceOfGivenDifference.java)|Medium|Dynamic Programming|
 |1155|[Number Of Dice Rolls With Target Sum](https://leetcode.com/problems/unique-paths/)|[Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/dp/NumberOfDiceRollsWithTargetSum.java)|Medium|Dynamic Programming|
 |1049|[Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/dp/LastStoneWeightII.java)|Medium|Dynamic Programming|
 |983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/dp/MinimumCostForTickets.java)|Medium|Dynamic Programming|
