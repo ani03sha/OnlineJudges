@@ -1,5 +1,6 @@
 plugins {
     id 'java'
+    id 'jacoco'
 }
 
 group 'org.redquark.onlinejudges.leetcode'
@@ -7,6 +8,18 @@ version '1.0-SNAPSHOT'
 
 repositories {
     mavenCentral()
+}
+
+jacoco {
+    toolVersion = "0.8.7"
+    reportsDir = file("$buildDir/jacoco")
+}
+
+test {
+    finalizedBy jacocoTestReport
+}
+jacocoTestReport {
+    dependsOn test
 }
 
 dependencies {
