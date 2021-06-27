@@ -53,3 +53,4 @@ Connect with me via
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/dp/ClimbingStairs.java)|Easy|Dynamic Programming|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/dp/MinimumPathSum.java)|Medium|Dynamic Programming|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/dp/UniquePaths.java)|Medium|Dynamic Programming|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/array/ValidSudoku.java)|Medium|Array, Matrix|
