@@ -17,6 +17,7 @@ Connect with me via
 
 |#|Title|Solutions|Difficulty|Tag|
 |-----|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------|---------------------|
+|1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/array/MaximumProductDifferenceBetweenTwoPairs.java)|Easy|Array, Sort|
 |1218|[Longest Arithmetic Subsequence Of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/dp/LongestArithmeticSubsequenceOfGivenDifference.java)|Medium|Dynamic Programming|
 |1155|[Number Of Dice Rolls With Target Sum](https://leetcode.com/problems/unique-paths/)|[Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/dp/NumberOfDiceRollsWithTargetSum.java)|Medium|Dynamic Programming|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/dp/LongestCommonSubsequence.java)|Medium|Dynamic Programming|
