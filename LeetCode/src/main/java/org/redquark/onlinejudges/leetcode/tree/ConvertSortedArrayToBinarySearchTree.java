@@ -1,5 +1,7 @@
 package org.redquark.onlinejudges.leetcode.tree;
 
+import org.redquark.onlinejudges.leetcode.common.TreeNode;
+
 /**
  * @author Anirudh Sharma
  */
@@ -27,15 +29,5 @@ public class ConvertSortedArrayToBinarySearchTree {
         root.right = createTree(nums, middle + 1, end);
         // Return the root
         return root;
-    }
-
-    static class TreeNode {
-        final int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int val) {
-            this.val = val;
-        }
     }
 }
