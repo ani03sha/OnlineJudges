@@ -1,13 +1,13 @@
 package org.redquark.onlinejudges.leetcode.tree;
 
 import org.junit.jupiter.api.Test;
+import org.redquark.onlinejudges.leetcode.common.TreeNode;
 
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.redquark.onlinejudges.leetcode.tree.BinaryTreeInorderTraversal.TreeNode;
 
 public class BinaryTreeInorderTraversalTest {
 

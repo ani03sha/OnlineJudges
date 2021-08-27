@@ -1,5 +1,7 @@
 package org.redquark.onlinejudges.leetcode.tree;
 
+import org.redquark.onlinejudges.leetcode.common.TreeNode;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
@@ -37,15 +39,5 @@ public class BinaryTreeInorderTraversal {
             }
         }
         return output;
-    }
-
-    static class TreeNode {
-        final int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int val) {
-            this.val = val;
-        }
     }
 }
