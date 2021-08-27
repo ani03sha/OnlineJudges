@@ -1,5 +1,7 @@
 package org.redquark.onlinejudges.leetcode.tree;
 
+import org.redquark.onlinejudges.leetcode.common.TreeNode;
+
 /**
  * @author Anirudh Sharma
  */
@@ -16,15 +18,5 @@ public class ValidateBinarySearchTree {
         }
         // Recursively check for left and right subtrees
         return isValidBST(root.left) && isValidBST(root.right);
-    }
-
-    static class TreeNode {
-        final int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int val) {
-            this.val = val;
-        }
     }
 }

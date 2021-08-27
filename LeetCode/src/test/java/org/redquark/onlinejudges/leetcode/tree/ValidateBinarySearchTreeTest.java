@@ -1,10 +1,10 @@
 package org.redquark.onlinejudges.leetcode.tree;
 
 import org.junit.jupiter.api.Test;
+import org.redquark.onlinejudges.leetcode.common.TreeNode;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
-import static org.redquark.onlinejudges.leetcode.tree.ValidateBinarySearchTree.TreeNode;
 
 public class ValidateBinarySearchTreeTest {
 
