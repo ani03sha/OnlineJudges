@@ -1,4 +1,4 @@
-package org.redquark.onlinejudges.leetcode.dp;
+package org.redquark.onlinejudges.leetcode.array;
 
 import java.util.LinkedList;
 import java.util.Queue;
