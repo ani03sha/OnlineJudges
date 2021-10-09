@@ -1,4 +1,4 @@
-package org.redquark.onlinejudges.leetcode.trie;
+package org.redquark.onlinejudges.leetcode.array;
 
 import org.junit.jupiter.api.Test;
 
