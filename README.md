@@ -3,13 +3,13 @@
 [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](https://github.com/ani03sha/OnlineJudges/blob/main/LICENSE)
 ![Language](https://img.shields.io/badge/language-Java-blue.svg)
 
-This repository contains my solutions to problems in different online judge platforms such as LeetCode, Hackerrank, etc. If you like this repository, consider giving it a star :star:.
+This repository contains my solutions to problems in different online judge platforms such as LeetCode, Hackerrank, etc.
+If you like this repository, consider giving it a star :star:.
 
 Connect with me via
 
 [![Twitter](https://img.shields.io/badge/i_am_anirudh-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/I_am_Anirudh)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirshar/)
-
 
 **1. [LeetCode](https://github.com/ani03sha/OnlineJudges#leetcode)**
 
@@ -107,6 +107,7 @@ Connect with me via
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/list/ReverseLinkedList.java)|Easy|Linked List|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/list/RemoveLinkedListElements.java)|Easy|Linked List|
 |201|[Bitwise AND Of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/bitmagic/BitwiseANDOfNumbersRange.java)|Medium|Bit Manipulation|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/tree/BinaryTreeRightSideView.java)|Medium|Tree, BFS|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/dp/HouseRobber.java)|Easy|Dynamic Programming|
 |191|[Number Of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/bitmagic/NumberOf1Bits.java)|Easy|Bit Manipulation|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/bitmagic/ReverseBits.java)|Easy|Bit Manipulation|
