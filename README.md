@@ -17,6 +17,7 @@ Connect with me via
 
 |#|Title|Solutions|Difficulty|Tag|
 |-----|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------|---------------------|
+|1928|[Minimum Cost To Reach Destination In Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/)|[Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/graph/MinimumCostToReachDestinationInTime.java)|Easy|Graph, Dijkstra|
 |1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/array/MaximumProductDifferenceBetweenTwoPairs.java)|Easy|Array, Sort|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/array/RichestCustomerWealth.java)|Easy|Array, Matrix|
 |1567|[Maximum Length Of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)|[Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/dp/MaximumLengthOfSubarrayWithPositiveProduct.java)|Medium|Dynamic Programming, Array|
