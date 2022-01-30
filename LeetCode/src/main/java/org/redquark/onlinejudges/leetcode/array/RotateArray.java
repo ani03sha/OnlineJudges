@@ -12,17 +12,23 @@ public class RotateArray {
         }
         // Length of the array
         int n = nums.length;
-        // Effective rotation factor
-        k %= n;
-        // Reverse the array
+        // Adjust k for cases where k >= n
+        k = k % n;
+        // Now, reverse the array in stages
+        // 1. Complete array
         reverse(nums, 0, n - 1);
+        // 2. First k elements
         reverse(nums, 0, k - 1);
+        // 3. Remaining elements
         reverse(nums, k, n - 1);
         return nums;
     }
 
     private void reverse(int[] nums, int left, int right) {
-        while (left < right) {
+        if (left > right) {
+            return;
+        }
+        while (left <= right) {
             int temp = nums[left];
             nums[left] = nums[right];
             nums[right] = temp;
