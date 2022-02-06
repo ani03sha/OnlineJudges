@@ -3,7 +3,7 @@ package org.redquark.onlinejudges.leetcode.array;
 /**
  * @author Anirudh Sharma
  */
-public class RemoveDuplicatesInSortedArray {
+public class removeDuplicatesFromSortedArray {
 
     public int removeDuplicates(int[] nums) {
         // Special case
