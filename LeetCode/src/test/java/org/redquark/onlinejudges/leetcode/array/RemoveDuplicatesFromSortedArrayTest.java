@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class RemoveDuplicatesFromSortedArrayTest {
 
-    private final removeDuplicatesFromSortedArray testObject = new removeDuplicatesFromSortedArray();
+    private final RemoveDuplicatesFromSortedArray testObject = new RemoveDuplicatesFromSortedArray();
 
     @Test
     public void testRemoveDuplicates() {
