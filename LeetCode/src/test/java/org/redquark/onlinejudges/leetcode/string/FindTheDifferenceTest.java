@@ -1,7 +1,6 @@
-package org.redquark.onlinejudges.leetcode.bitmagic;
+package org.redquark.onlinejudges.leetcode.string;
 
 import org.junit.jupiter.api.Test;
-import org.redquark.onlinejudges.leetcode.array.FindTheDifference;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
