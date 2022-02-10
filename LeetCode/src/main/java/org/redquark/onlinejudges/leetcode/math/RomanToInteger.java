@@ -1,4 +1,4 @@
-package org.redquark.onlinejudges.leetcode.string;
+package org.redquark.onlinejudges.leetcode.math;
 
 /**
  * @author Anirudh Sharma
