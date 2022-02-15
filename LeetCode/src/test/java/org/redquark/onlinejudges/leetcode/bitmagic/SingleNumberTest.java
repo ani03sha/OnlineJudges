@@ -1,4 +1,4 @@
-package org.redquark.onlinejudges.leetcode.dp;
+package org.redquark.onlinejudges.leetcode.bitmagic;
 
 import org.junit.jupiter.api.Test;
 
