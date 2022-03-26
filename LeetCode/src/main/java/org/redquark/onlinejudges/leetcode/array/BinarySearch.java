@@ -13,21 +13,24 @@ public class BinarySearch {
         // Left and right pointers
         int left = 0;
         int right = nums.length - 1;
-        // Loop until the pointers meet
+        // Loop until the two pointers meet
         while (left <= right) {
-            // Middle index
+            // Middle index of the range
             int middle = left + (right - left) / 2;
-            // Check if the target is at middle index
+            // If the element at the middle index is
+            // the target value, we have found it
             if (nums[middle] == target) {
                 return middle;
             }
-            // Check if the target lies in the right half
-            else if (nums[middle] < target) {
-                left = middle + 1;
-            }
-            // Check if the target lies in the left half
-            else {
+            // If the target is smaller than the element
+            // at the middle index, we search in left half
+            else if (target < nums[middle]) {
                 right = middle - 1;
+            }
+            // If the target is greater than the element
+            // at the middle index, we search in right half
+            else {
+                left = middle + 1;
             }
         }
         return -1;
