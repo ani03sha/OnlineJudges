@@ -2,6 +2,9 @@ package org.redquark.onlinejudges.leetcode.list;
 
 import org.redquark.onlinejudges.leetcode.common.ListNode;
 
+/**
+ * @author Anirudh Sharma
+ */
 public class SwappingNodesInALinkedList {
 
     public ListNode swapNodes(ListNode head, int k) {
