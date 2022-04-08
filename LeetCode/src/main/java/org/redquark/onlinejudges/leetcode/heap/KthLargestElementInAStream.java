@@ -33,7 +33,7 @@ public class KthLargestElementInAStream {
             // If the value to be added is greater than the value
             // at the root, we need to add it to the heap
             if (minHeap.peek() != null && val > minHeap.peek()) {
-                // Since the new value will shift the k-th largest
+                // Since the new value will shift the k-th the largest
                 // element, we will remove the current root and then
                 // add the new element
                 minHeap.poll();
