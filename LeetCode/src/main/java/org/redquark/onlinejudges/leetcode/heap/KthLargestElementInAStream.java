@@ -41,8 +41,8 @@ public class KthLargestElementInAStream {
             }
             // This will also execute if the value to be added is less than
             // the value at current root because it won't affect the position
-            // of the current root at the k-th largest element
-            return minHeap.peek();
+            // of the current root at the k-th the largest element
+            return !minHeap.isEmpty() ? minHeap.peek() : -1;
         }
     }
 }
