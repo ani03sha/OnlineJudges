@@ -30,7 +30,7 @@ public class Shift2DGrid {
         // Populate the lists
         for (int i = 0; i < total; i++) {
             // Effective index
-            int index = (i - k + m * n) % total;
+            int index = (i - k + total) % total;
             // Add the effective element to the list
             result.get(i / n).add(grid[index / n][index % n]);
         }
