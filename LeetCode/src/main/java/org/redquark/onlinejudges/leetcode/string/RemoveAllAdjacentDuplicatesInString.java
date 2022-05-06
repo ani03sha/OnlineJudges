@@ -1,11 +1,14 @@
 package org.redquark.onlinejudges.leetcode.string;
 
+import java.util.ArrayDeque;
+import java.util.Deque;
+
 /**
  * @author Anirudh Sharma
  */
 public class RemoveAllAdjacentDuplicatesInString {
 
-    public String removeDuplicates(String s) {
+    public String removeDuplicatesOne(String s) {
         // Special case
         if (s == null || s.isEmpty()) {
             return s;
@@ -33,5 +36,28 @@ public class RemoveAllAdjacentDuplicatesInString {
             }
         }
         return new String(characters, 0, index);
+    }
+
+    public String removeDuplicatesTwo(String s) {
+        // Special case
+        if (s == null || s.isEmpty()) {
+            return s;
+        }
+        // Stack to store the unique characters
+        Deque<Character> stack = new ArrayDeque<>();
+        // Loop through the string
+        for (char c : s.toCharArray()) {
+            if (!stack.isEmpty() && c == stack.peek()) {
+                stack.pop();
+            } else {
+                stack.push(c);
+            }
+        }
+        // StringBuilder to store the output
+        StringBuilder output = new StringBuilder();
+        for (char c : stack) {
+            output.append(c);
+        }
+        return output.reverse().toString();
     }
 }

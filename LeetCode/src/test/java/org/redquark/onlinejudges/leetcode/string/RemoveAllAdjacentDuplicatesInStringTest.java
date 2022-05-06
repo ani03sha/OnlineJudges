@@ -9,11 +9,20 @@ public class RemoveAllAdjacentDuplicatesInStringTest {
     private final RemoveAllAdjacentDuplicatesInString testObject = new RemoveAllAdjacentDuplicatesInString();
 
     @Test
-    void testRemoveDuplicates() {
+    void testRemoveDuplicatesOne() {
         String s = "abbaca";
-        assertEquals("ca", testObject.removeDuplicates(s));
+        assertEquals("ca", testObject.removeDuplicatesOne(s));
 
         s = "azxxzy";
-        assertEquals("ay", testObject.removeDuplicates(s));
+        assertEquals("ay", testObject.removeDuplicatesOne(s));
+    }
+
+    @Test
+    void testRemoveDuplicatesTwo() {
+        String s = "abbaca";
+        assertEquals("ca", testObject.removeDuplicatesTwo(s));
+
+        s = "azxxzy";
+        assertEquals("ay", testObject.removeDuplicatesTwo(s));
     }
 }
