@@ -14,7 +14,7 @@ public class SubsetsTest {
     private final Subsets testObject = new Subsets();
 
     @Test
-    public void testSubsets() {
+    public void testSubsetsWithBitManipulation() {
         int[] nums = new int[]{1, 2, 3};
         List<List<Integer>> expected = new ArrayList<>();
         expected.add(Collections.emptyList());
@@ -25,12 +25,34 @@ public class SubsetsTest {
         expected.add(Arrays.asList(1, 3));
         expected.add(Arrays.asList(2, 3));
         expected.add(Arrays.asList(1, 2, 3));
-        assertEquals(expected, testObject.subsets(nums));
+        assertEquals(expected, testObject.subsetsWithBitManipulation(nums));
 
         nums = new int[]{0};
         expected = new ArrayList<>();
         expected.add(Collections.emptyList());
         expected.add(Collections.singletonList(0));
-        assertEquals(expected, testObject.subsets(nums));
+        assertEquals(expected, testObject.subsetsWithBitManipulation(nums));
+    }
+
+    @Test
+    public void testSubsetsWithBacktracking() {
+        int[] nums = new int[]{1, 2, 3};
+        List<List<Integer>> expected = new ArrayList<>();
+        expected.add(Collections.emptyList());
+        expected.add(Collections.singletonList(1));
+
+        expected.add(Arrays.asList(1, 2));
+        expected.add(Arrays.asList(1, 2, 3));
+        expected.add(Arrays.asList(1, 3));
+        expected.add(Collections.singletonList(2));
+        expected.add(Arrays.asList(2, 3));
+        expected.add(Collections.singletonList(3));
+        assertEquals(expected, testObject.subsetsWithBacktracking(nums));
+
+        nums = new int[]{0};
+        expected = new ArrayList<>();
+        expected.add(Collections.emptyList());
+        expected.add(Collections.singletonList(0));
+        assertEquals(expected, testObject.subsetsWithBacktracking(nums));
     }
 }
