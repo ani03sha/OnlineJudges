@@ -19,4 +19,16 @@ public class FirstUniqueCharacterInAStringTest {
         s = "aabb";
         assertEquals(-1, testObject.firstUniqChar(s));
     }
+
+    @Test
+    public void testFirstUniqCharForVeryLargeStrings() {
+        String s = "leetcode";
+        assertEquals(0, testObject.firstUniqCharForVeryLargeStrings(s));
+
+        s = "loveleetcode";
+        assertEquals(2, testObject.firstUniqCharForVeryLargeStrings(s));
+
+        s = "aabb";
+        assertEquals(-1, testObject.firstUniqCharForVeryLargeStrings(s));
+    }
 }
