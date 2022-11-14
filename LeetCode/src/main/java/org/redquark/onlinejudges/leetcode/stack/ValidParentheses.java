@@ -16,8 +16,9 @@ public class ValidParentheses {
         Stack<Character> leftParentheses = new Stack<>();
         // Loop through the string
         for (char c : s.toCharArray()) {
-            // If the current character is one of the left parentheses (, {, [, we
-            // will push them to the stack
+            /// If the current character is any of the left parentheses,
+            // we will add it to the stack so that it can be matched by
+            // the right type parentheses
             if (c == '(' || c == '{' || c == '[') {
                 leftParentheses.push(c);
             }
@@ -35,10 +36,14 @@ public class ValidParentheses {
             // left parenthesis [ in the stack
             else if (c == ']' && !leftParentheses.isEmpty() && leftParentheses.peek() == '[') {
                 leftParentheses.pop();
-            } else {
+            }
+            // If the current character is an invalid character
+            else {
                 return false;
             }
         }
+        // At this point, for a valid string, all the left parentheses
+        // would be removed, thus, we can check the size of the stack
         return leftParentheses.size() == 0;
     }
 }
