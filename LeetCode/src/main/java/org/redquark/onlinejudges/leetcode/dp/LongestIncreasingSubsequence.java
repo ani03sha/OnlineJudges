@@ -23,7 +23,7 @@ public class LongestIncreasingSubsequence {
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < i; j++) {
                 // If the number at i is greater than the number
-                // at j, then we will update the max, if requires
+                // at j, then we will update the max, if required
                 if (nums[i] > nums[j]) {
                     lookup[i] = Math.max(lookup[i], lookup[j] + 1);
                 }
