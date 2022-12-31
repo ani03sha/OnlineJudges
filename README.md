@@ -11,8 +11,8 @@ Connect with me via
 [![Twitter](https://img.shields.io/badge/i_am_anirudh-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/I_am_Anirudh)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirshar/)
 
-**1. [LeetCode](https://github.com/ani03sha/OnlineJudges#leetcode)**
-**2. [Work At Tech](https://github.com/ani03sha/OnlineJudges#workattech)**
+- **1. [LeetCode](https://github.com/ani03sha/OnlineJudges#leetcode)**
+- **2. [Work At Tech](https://github.com/ani03sha/OnlineJudges#work-at-tech)**
 
 ## LeetCode
 
