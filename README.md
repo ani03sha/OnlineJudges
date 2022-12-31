@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](https://github.com/ani03sha/OnlineJudges/blob/main/LICENSE)
 ![Language](https://img.shields.io/badge/language-Java-blue.svg)
 
-This repository contains my solutions to problems in different online judge platforms such as LeetCode, Hackerrank, etc.
+This repository contains my solutions to problems in different online judge platforms such as LeetCode, Work@Tech, etc.
 If you like this repository, consider giving it a star :star:.
 
 Connect with me via
@@ -12,6 +12,7 @@ Connect with me via
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirshar/)
 
 **1. [LeetCode](https://github.com/ani03sha/OnlineJudges#leetcode)**
+**2. [Work At Tech](https://github.com/ani03sha/OnlineJudges#workattech)**
 
 ## LeetCode
 
@@ -409,3 +410,5 @@ Connect with me via
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                                         | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/string/LongestSubstringWithoutRepeatingCharacters.java)          | Medium     | String, Sliding Window                      |
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                                                       | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/list/AddTwoNumbers.java)                                         | Medium     | Linked List                                 |
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                                       | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/array/TwoSum.java)                                               | Easy       | Array                                       |
+
+## Work At Tech
