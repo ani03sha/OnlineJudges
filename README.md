@@ -412,3 +412,7 @@ Connect with me via
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                                       | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/LeetCode/src/main/java/org/redquark/onlinejudges/leetcode/array/TwoSum.java)                                               | Easy       | Array                                       |
 
 ## Work At Tech
+
+### Dynamic Programming
+
+| 1    | [Climbing Stairs](https://workat.tech/problem-solving/practice/climbing-stairs)                                                                                          | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/array/TwoSum.java)                                           | Easy       | Dynamic Programming                          |
