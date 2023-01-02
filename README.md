@@ -432,6 +432,7 @@ Connect with me via
 | 12  | [Coin Change](https://workat.tech/problem-solving/practice/coin-change)                                               | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/dp/CoinChange.java)                      | Medium     | Dynamic Programming                         |
 | 13  | [Decode Ways](https://workat.tech/problem-solving/practice/decode-ways)                                               | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/dp/DecodeWays.java)                      | Medium     | Dynamic Programming                         |
 | 14  | [Unique Paths](https://workat.tech/problem-solving/practice/unique-paths)                                             | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/dp/UniquePaths.java)                     | Medium     | Dynamic Programming                         |
+| 15  | [Maximum Product Subarray](https://workat.tech/problem-solving/practice/max-product-subarray)                         | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/dp/MaximumProductSubarray.java)          | Medium     | Dynamic Programming                         |
 
 ### Greedy Algorithm
 
