@@ -434,6 +434,7 @@ Connect with me via
 
 ### Greedy Algorithm
 
-| #   | Title                                                                                         | Solutions                                                                                                                                                   | Difficulty | Tag                                         |
-|-----|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|---------------------------------------------|
-| 1   | [Max Meetings In A Room](https://workat.tech/problem-solving/practice/max-meetings-in-a-room) | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/greedy/MaxMeetingsInARoom.java) | Easy       | Dynamic Programming                         |
+| #   | Title                                                                                         | Solutions                                                                                                                                                   | Difficulty | Tag    |
+|-----|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| 1   | [Max Meetings In A Room](https://workat.tech/problem-solving/practice/max-meetings-in-a-room) | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/greedy/MaxMeetingsInARoom.java) | Medium     | Greedy |
+| 2   | [Sack Of Grains](https://workat.tech/problem-solving/practice/sack-of-grains)                 | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/greedy/SackOfGrains.java)       | Medium     | Greedy |
