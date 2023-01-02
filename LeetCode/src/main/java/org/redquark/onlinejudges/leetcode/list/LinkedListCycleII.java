@@ -1,4 +1,4 @@
-package org.redquark.onlinejudges.leetcode.list;
+    package org.redquark.onlinejudges.leetcode.list;
 
 import org.redquark.onlinejudges.leetcode.common.ListNode;
 
