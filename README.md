@@ -431,6 +431,7 @@ Connect with me via
 | 11  | [Rod Cutting](https://workat.tech/problem-solving/practice/rod-cutting)                                               | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/dp/RodCutting.java)                      | Medium     | Dynamic Programming                         |
 | 12  | [Coin Change](https://workat.tech/problem-solving/practice/coin-change)                                               | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/dp/CoinChange.java)                      | Medium     | Dynamic Programming                         |
 | 13  | [Decode Ways](https://workat.tech/problem-solving/practice/decode-ways)                                               | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/dp/DecodeWays.java)                      | Medium     | Dynamic Programming                         |
+| 14  | [Unique Paths](https://workat.tech/problem-solving/practice/unique-paths)                                             | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/dp/UniquePaths.java)                     | Medium     | Dynamic Programming                         |
 
 ### Greedy Algorithm
 
