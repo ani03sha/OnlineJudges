@@ -434,6 +434,13 @@ Connect with me via
 | 14  | [Unique Paths](https://workat.tech/problem-solving/practice/unique-paths)                                             | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/dp/UniquePaths.java)                     | Medium     | Dynamic Programming                         |
 | 15  | [Maximum Product Subarray](https://workat.tech/problem-solving/practice/max-product-subarray)                         | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/dp/MaximumProductSubarray.java)          | Medium     | Dynamic Programming                         |
 
+### Graph
+
+| #   | Title                                                                                                                 | Solutions                                                                                                                                                              | Difficulty | Tag   |
+|-----|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------|
+| 1   | [Adjacency List To Adjacency Matrix](https://workat.tech/problem-solving/practice/adjacency-list-to-adjacency-matrix) | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/graph/AdjacencyListToAdjacencyMatrix.java) | Easy       | Graph |
+
+
 ### Greedy Algorithm
 
 | #   | Title                                                                                         | Solutions                                                                                                                                                   | Difficulty | Tag    |
