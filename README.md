@@ -440,7 +440,8 @@ Connect with me via
 | #   | Title                                                                                                                 | Solutions                                                                                                                                                              | Difficulty | Tag   |
 |-----|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------|
 | 1   | [Adjacency List To Adjacency Matrix](https://workat.tech/problem-solving/practice/adjacency-list-to-adjacency-matrix) | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/graph/AdjacencyListToAdjacencyMatrix.java) | Easy       | Graph |
-| 2   | [Valid Path](https://workat.tech/problem-solving/practice/valid-path)                                                 | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/graph/ValidPath.java)                      | Easy       | Graph |
+| 2   | [Adjacency Matrix To Adjacency List](https://workat.tech/problem-solving/practice/adjacency-matrix-to-adjacency-list) | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/graph/AdjacencyMatrixToAdjacencyList.java) | Easy       | Graph |
+| 15  | [Valid Path](https://workat.tech/problem-solving/practice/valid-path)                                                 | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/graph/ValidPath.java)                      | Easy       | Graph |
 
 
 ### Greedy Algorithm
