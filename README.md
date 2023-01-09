@@ -455,7 +455,8 @@ Connect with me via
 | 14  | [Number Of Islands](https://workat.tech/problem-solving/practice/number-of-islands)                                   | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/graph/NumberOfIslands.java)                | Medium     | Graph |
 | 15  | [Valid Path](https://workat.tech/problem-solving/practice/valid-path)                                                 | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/graph/ValidPath.java)                      | Medium     | Graph |
 | 16  | [Capture Surrounded Regions](https://workat.tech/problem-solving/practice/capture-surrounded-regions)                 | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/graph/CaptureSurroundedRegions.java)       | Medium     | Graph |
-| 17  | [Word Ladder](https://workat.tech/problem-solving/practice/word-ladder)                                               | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/graph/WordLadder.java)                     | Hard       | Graph |
+| 18  | [Knight's Journey On A Chess Board](https://workat.tech/problem-solving/practice/knights-journey-chessboard)          | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/graph/KnightsJourneyOnAChessboard.java)    | Medium     | Graph |
+| 21  | [Word Ladder](https://workat.tech/problem-solving/practice/word-ladder)                                               | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/graph/WordLadder.java)                     | Hard       | Graph |
 
 ### Greedy Algorithm
 
