@@ -415,6 +415,12 @@ Connect with me via
 
 ## Work At Tech
 
+### Arrays
+
+| #   | Title                                                                           | Solutions                                                                                                                                              | Difficulty | Tag    |
+|-----|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| 1   | [Cumulative Sum](https://workat.tech/problem-solving/practice/cumulative-sum)   | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/arrays/CumulativeSum.java) | Easy       | Arrays |
+
 ### Dynamic Programming
 
 | #   | Title                                                                                                                 | Solutions                                                                                                                                                            | Difficulty | Tag                                         |
