@@ -417,9 +417,10 @@ Connect with me via
 
 ### Arrays
 
-| #   | Title                                                                           | Solutions                                                                                                                                              | Difficulty | Tag    |
-|-----|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1   | [Cumulative Sum](https://workat.tech/problem-solving/practice/cumulative-sum)   | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/arrays/CumulativeSum.java) | Easy       | Arrays |
+| #   | Title                                                                                           | Solutions                                                                                                                                                      | Difficulty | Tag    |
+|-----|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| 1   | [Cumulative Sum](https://workat.tech/problem-solving/practice/cumulative-sum)                   | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/arrays/CumulativeSum.java)         | Easy       | Arrays |
+| 2   | [Positive Cumulative Sum](https://workat.tech/problem-solving/practice/positive-cumulative-sum) | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/arrays/PositiveCumulativeSum.java) | Easy       | Arrays |
 
 ### Dynamic Programming
 
