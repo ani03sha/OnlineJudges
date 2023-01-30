@@ -423,6 +423,13 @@ Connect with me via
 | 2   | [Positive Cumulative Sum](https://workat.tech/problem-solving/practice/positive-cumulative-sum) | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/arrays/PositiveCumulativeSum.java) | Easy       | Arrays |
 | 3   | [Identical Twins](https://workat.tech/problem-solving/practice/identical-twins)                 | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/arrays/IdenticalTwins.java)        | Easy       | Arrays |
 
+### Binary Trees
+
+| #   | Title                                                                                                       | Solutions                                                                                                                                                                | Difficulty | Tag          |
+|-----|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|
+| 1   | [Binary Tree Inorder Traversal](https://workat.tech/problem-solving/practice/binary-tree-inorder-traversal) | [Solution](https://github.com/ani03sha/OnlineJudges/blob/main/WorkAtTech/src/main/java/org/redquark/onlinejudges/workattech/binarytrees/BinaryTreeInorderTraversal.java) | Easy       | Binary Trees |
+
+
 ### Dynamic Programming
 
 | #   | Title                                                                                                                 | Solutions                                                                                                                                                            | Difficulty | Tag                                         |
