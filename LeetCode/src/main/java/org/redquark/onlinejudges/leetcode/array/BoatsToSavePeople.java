@@ -22,14 +22,12 @@ public class BoatsToSavePeople {
             // can be put in the boat
             if (people[left] + people[right] <= limit) {
                 left++;
-                right--;
             }
             // If not, we will take only the heaviest person
-            else {
-                right--;
-            }
+            right--;
             boats++;
         }
+        // At every selection, we will be needing a new boat
         return boats;
     }
 }
