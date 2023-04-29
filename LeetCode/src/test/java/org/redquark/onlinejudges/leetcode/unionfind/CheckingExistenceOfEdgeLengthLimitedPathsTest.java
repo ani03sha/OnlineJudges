@@ -1,4 +1,4 @@
-package org.redquark.onlinejudges.leetcode.graph;
+package org.redquark.onlinejudges.leetcode.unionfind;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package org.redquark.onlinejudges.leetcode.graph;
+package org.redquark.onlinejudges.leetcode.unionfind;
 
 import java.util.Arrays;
 import java.util.Comparator;
