@@ -23,4 +23,21 @@ public class FindModeInBinarySearchTreeTest {
         expected = new int[]{0};
         assertArrayEquals(expected, testObject.findMode(root));
     }
+
+    @Test
+    public void testFindModeOptimal() {
+        TreeNode root = new TreeNode(1);
+        root.right = new TreeNode(2);
+        root.right.left = new TreeNode(2);
+        int[] expected = new int[]{2};
+        assertArrayEquals(expected, testObject.findModeOptimal(root));
+
+        testObject.currentValue = 0;
+        testObject.globalMaxFrequency = 0;
+        testObject.localFrequency = 0;
+
+        root = new TreeNode(0);
+        expected = new int[]{0};
+        assertArrayEquals(expected, testObject.findModeOptimal(root));
+    }
 }
